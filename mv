@@ -1,0 +1,3 @@
+mv moves a file.
+
+Args are source filepath and destination filepath. If source and desination are in same directory the file is RENAMED
